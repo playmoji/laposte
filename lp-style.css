@@ -2821,8 +2821,6 @@ body {
 .lp-fw .grid-3>* {
     width      : calc(33% - (40px * .69));
     margin-left: 40px;
-    margin-left: var(--gap-x);
-
 }
 
 .lp-fw .grid-3>*:nth-child(3n+1) {
